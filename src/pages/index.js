@@ -8,8 +8,8 @@ import school9 from "../images/attractions/school9.webp";
 export default function Page() {
   return (
     <>
-      <div className="flex flex-col md:flex-row items-start mx-auto max-w-screen-xl gap px">
-        <main className="w-full component-block">
+      <div className="">
+        <main className="">
           <h2 data-section="information"
               className="component-block__title mb section"
               id="information">

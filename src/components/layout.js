@@ -4,8 +4,8 @@ export default function Layout({children}) {
   return (
     <>
       <Navbar/>
-      <div className="flex m-auto max-w-[1280px]">
-        <main>{children}</main>
+      <div className="flex flex-col md:flex-row items-start mx-auto max-w-screen-xl gap px">
+        <main className="w-full component-block">{children}</main>
         <Side/>
       </div>
 
