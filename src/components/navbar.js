@@ -17,13 +17,13 @@ export default function Navbar() {
                 <Link href="/history" className="link">История</Link>
               </li>
               <li>
-                <Link href="#" className="link">Люди</Link>
+                <Link href="/people" className="link">Люди</Link>
               </li>
               <li>
-                <Link href="#" className="link">Культура</Link>
+                <Link href="/culture" className="link">Культура</Link>
               </li>
               <li>
-                <Link href="#" className="link">Предприятия</Link>
+                <Link href="/industry" className="link">Предприятия</Link>
               </li>
               <li>
                 <Link href="#" className="link">Сельское хозяйство</Link>

@@ -8,7 +8,6 @@ export default function Layout({children}) {
         <main className="w-full component-block">{children}</main>
         <Side/>
       </div>
-
     </>
   )
 }
