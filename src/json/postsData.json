@@ -1,0 +1,26 @@
+[
+  {
+    "link": "information",
+    "name": "Информация"
+  },
+  {
+    "link": "history",
+    "name": "История развития"
+  },
+  {
+    "link": "climat",
+    "name": "Климат"
+  },
+  {
+    "link": "population",
+    "name": "Население"
+  },
+  {
+    "link": "education",
+    "name": "Образование"
+  },
+  {
+    "link": "economy",
+    "name": "Хозяйственная деятельность"
+  }
+]

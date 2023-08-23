@@ -9,7 +9,7 @@ export default function Side({ posts }) {
       <nav className="sidebar-nav">
         <ul>
           {posts.map((item, index) => (
-            <li key={index} className="">
+            <li key={index} className="sidebar-nav__li">
               <Link href={`#${item.link}`}>{item.name}</Link>
             </li>
           ))}

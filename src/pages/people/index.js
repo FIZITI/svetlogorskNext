@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Layout from '../../components/layout';
 import cherenok from "../../images/people/cherenok.webp";
 import chizh from "../../images/people/chizh.webp";
 import docenko  from "../../images/people/docenko.webp";
@@ -16,8 +17,10 @@ import zapesochnaya from "../../images/people/zapesochnaya.webp";
 import zinkevich from "../../images/people/zinkevich.webp";
 
 export default function Page() {
+    const people = 'people';
     return (
       <>
+      <Layout content={people}>
           <h2 data-section="zapesochnaya"
               className="component-block__title mb section"
               id="zapesochnaya">
@@ -25,7 +28,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={zapesochnaya}
-                   alt="zapesochnaya"/>
+                     alt="zapesochnaya"/>
           </figure>
           <p className="mb">После окончания медицинского института работала врачом на пристани Осетрово Ленского
               водздравотдела. С 1938 г. — в Нижнеиртышском водздравотделе. В годы войны заведует санэпидемстанцией в г.
@@ -41,7 +44,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={hmarun}
-                   alt="hmarun"/>
+                     alt="hmarun"/>
           </figure>
           <p className="mb">8 марта 1916, д. Боровики Светлогорского р-на Гомельской обл. – 13 ноября 1998, Герой
               Социалистического Труда (1966).</p>
@@ -66,7 +69,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={kravchuk}
-                   alt="kravchuk"/>
+                     alt="kravchuk"/>
           </figure>
           <p className="mb">25 мая 1932, Житомирская обл. — февраль 2016. Ветеран труда, Отличник энергетики и
               электрификации
@@ -87,7 +90,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={timohin}
-                   alt="timohin"/>
+                     alt="timohin"/>
           </figure>
           <p className="mb">1 января 1930, с. Михайловское Перемышльского района Калужской обл. — 2002, Заслуженный
               строитель
@@ -109,7 +112,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={hudoleeva}
-                   alt="hudoleeva"/>
+                     alt="hudoleeva"/>
           </figure>
           <p className="mb">25 августа 1934, Ветковский р-н, Гомельской обл., Заслуженный учитель БССР.</p>
           <p className="mb">Окончила школу в 1952 г. в д. Рудаков Хойникского района. В 1956 окончила Гомельский
@@ -127,7 +130,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={chizh}
-                   alt="chizh"/>
+                     alt="chizh"/>
           </figure>
           <p className="mb">15 мая 1927, д. Рассумака Краснопольского р-на Могилевской обл. — 21 октября 2015 го-да,
               Заслуженный работник промышленности Республики Беларусь (1995).</p>
@@ -150,7 +153,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={zinkevich}
-                   alt="zinkevich"/>
+                     alt="zinkevich"/>
           </figure>
           <p className="mb">23 января 1951, п. Стреличево Хойникского р-на Гомельской обл., художник, член Союза
               художников
@@ -178,7 +181,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={lutugovskiy}
-                   alt="lutugovskiy"/>
+                     alt="lutugovskiy"/>
           </figure>
           <p className="mb">13 марта 1937, г. Речица Гомельской обл. — январь 2016, Заслуженный работник промышленности
               Республики Беларусь (1998), начальник Светлогорского агропромышленного управления.</p>
@@ -198,7 +201,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={neustupova}
-                   alt="neustupova"/>
+                     alt="neustupova"/>
           </figure>
           <p className="mb">Окончила планово-экономический факультет Белорусского государственного института народного
               хозяйства
@@ -219,7 +222,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={ovsyannikov}
-                   alt="ovsyannikov"/>
+                     alt="ovsyannikov"/>
           </figure>
           <p className="mb">Работал в колхозах им. Кирова и им. Ленина, главным агрономом в совхозе «Пиревичский»,
               заместителем начальника Светлогорского управления сельского хозяйства.</p>
@@ -247,7 +250,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={pirshtuk}
-                   alt="pirshtuk"/>
+                     alt="pirshtuk"/>
           </figure>
           <p className="mb">Окончил Белорусский политехнический институт по специальности инженер – тепло-энергетик
               (1981) и
@@ -274,7 +277,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={docenko}
-                   alt="docenko"/>
+                     alt="docenko"/>
           </figure>
           <p className="mb">Начальник Вышкомонтажного управления республиканского унитарного предприятия
               «Производственное
@@ -297,7 +300,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={yavor}
-                   alt="yavor"/>
+                     alt="yavor"/>
           </figure>
           <p className="mb">Главный зоотехник-селекционер Светлогорского филиала республиканского сельскохозяйственного
               унитарного предприятия «Гомельгосплемпредприятие».</p>
@@ -316,7 +319,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={cherenok}
-                   alt="cherenok"/>
+                     alt="cherenok"/>
           </figure>
           <p className="mb">Директор сельскохозяйственного дочернего унитарного предприятия «Михайловское-агро»
               производственного унитарного предприятия «Калинковичский молочный комби-нат».</p>
@@ -341,7 +344,7 @@ export default function Page() {
           </h2>
           <figure className="max-w-lg mx-auto my">
               <Image className="max-w-full mx-auto h-auto rounded-lg" src={kotlyarov}
-                   alt="kotlyarov"/>
+                     alt="kotlyarov"/>
           </figure>
           <p className="mb">21 февраля 1938 г. Чаусы Могилевской обл. Поэт, критик, журналист. Член Союза журналистов
               Беларуси
@@ -369,6 +372,7 @@ export default function Page() {
               потом судьба» (2007), «Принял крещение от клена»(2009).</p>
           <p className="mb">Награжден почетными грамотами Республиканского комитета по печати, Министерства культуры
               Республики Беларусь, почетными грамотами Гомельского облисполкома и др.</p>
+            </Layout>
       </>
     )
 }

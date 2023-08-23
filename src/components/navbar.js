@@ -26,16 +26,16 @@ export default function Navbar() {
                 <Link href="/industry" className="link">Предприятия</Link>
               </li>
               <li>
-                <Link href="#" className="link">Сельское хозяйство</Link>
+                <Link href="/farm" className="link">Сельское хозяйство</Link>
               </li>
               <li>
-                <Link href="#" className="link">Достопримечательности</Link>
+                <Link href="/attractions" className="link">Достопримечательности</Link>
               </li>
               <li>
-                <Link href="#" className="link">Викторина</Link>
+                <Link href="/test" className="link">Викторина</Link>
               </li>
               <li>
-                <Link href="#" className="link">Игра</Link>
+                <Link href="/game" className="link">Игра</Link>
               </li>
             </ul>
           </nav>
