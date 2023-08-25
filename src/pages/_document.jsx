@@ -7,7 +7,7 @@ export default function Document() {
             <Head>
               {/*<script defer src={colorTheme}></script>*/}
               {/*<script defer src={nav}></script>*/}
-              {/*<script defer src="../js/menu-burger.js"></script>*/}
+              {/*<script defer src={menuBurger}></script>*/}
             </Head>
             <body>
             <Main></Main>
