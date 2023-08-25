@@ -15,13 +15,12 @@ import shatilo from "../../images/attractions/shatilo.webp";
 import silent from "../../images/attractions/silent-bell.webp";
 import soldiers from "../../images/attractions/soldiers-monument.webp";
 import square from "../../images/attractions/square.webp";
-
+import postsAttractions from "../../json/postsAttractions.json";
 
 export default function Page() {
-  const attractions = 'attractions';
   return (
     <>
-      <Layout content={attractions}>
+      <Layout content={postsAttractions}>
         <h2 data-section="alley-heroes"
             className="component-block__title mb section"
             id="alley-heroes">

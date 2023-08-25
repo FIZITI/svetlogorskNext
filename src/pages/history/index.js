@@ -3,12 +3,12 @@ import history1 from "../../images/history/history1.webp";
 import history2 from "../../images/history/history2.webp";
 import shatilki from "../../images/history/shatilki.webp";
 import Layout from "../../components/layout";
+import postsHistory from "../../json/postsHistory.json";
 
 export default function Index() {
-  const history = 'history';
   return (
     <>
-      <Layout content={history}>
+      <Layout content={postsHistory}>
         <h2 data-section="before1918"
             className="component-block__title mb section"
             id="before1918">

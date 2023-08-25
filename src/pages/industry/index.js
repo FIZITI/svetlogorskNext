@@ -6,12 +6,11 @@ import gbiik from "../../images/industry/gbiik.webp";
 import himvolokno from "../../images/industry/himvolokno.webp";
 import hlebzavod from "../../images/industry/hlebzavod.webp";
 import tehmontag from "../../images/industry/tehmontag.webp";
-
+import postsIndustry from "../../json/postsIndustry.json";
 export default function Page() {
-  const industry = 'industry';
   return (
     <>
-      <Layout content={industry}>
+      <Layout content={postsIndustry}>
         <h2 data-section="himvolokno"
             className="component-block__title mb section"
             id="himvolokno">

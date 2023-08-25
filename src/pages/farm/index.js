@@ -2,12 +2,12 @@ import Image from "next/image";
 import Layout from "../../components/layout";
 import tractor from "../../images/industry/tractor.webp";
 import farmers from "../../images/industry/farmers.webp";
+import postsFarm from "../../json/postsFarm.json";
 
 export default function Page() {
-  const farm = 'farm';
   return (
       <>
-        <Layout content={farm}>
+        <Layout content={postsFarm}>
           <h2 data-section="farm"
               className="component-block__title mb section"
               id="farm">

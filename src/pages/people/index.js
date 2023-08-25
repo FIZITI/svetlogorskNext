@@ -15,12 +15,12 @@ import timohin from "../../images/people/timohin.webp";
 import yavor from "../../images/people/yavor.webp";
 import zapesochnaya from "../../images/people/zapesochnaya.webp";
 import zinkevich from "../../images/people/zinkevich.webp";
+import postsPeople from "../../json/postsPeople.json";
 
 export default function Page() {
-    const people = 'people';
     return (
       <>
-      <Layout content={people}>
+      <Layout content={postsPeople}>
           <h2 data-section="zapesochnaya"
               className="component-block__title mb section"
               id="zapesochnaya">

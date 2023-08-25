@@ -1,26 +1,62 @@
 [
   {
-    "link": "information",
-    "name": "people"
+    "link": "zapesochnaya",
+    "name": "Запесочная Нина Никитична"
   },
   {
-    "link": "history",
-    "name": "История развития"
+    "link": "hmarun",
+    "name": "Хмарун Иван Федорович"
   },
   {
-    "link": "climat",
-    "name": "Климат"
+    "link": "kravchuk",
+    "name": "Кравчук Николай Иванович"
   },
   {
-    "link": "population",
-    "name": "Население"
+    "link": "timohin",
+    "name": "Тимохин Виктор Васильевич"
   },
   {
-    "link": "education",
-    "name": "Образование"
+    "link": "hudoleeva",
+    "name": "Худолеева Любовь Петровна"
   },
   {
-    "link": "economy",
-    "name": "Хозяйственная деятельность"
+    "link": "chizh",
+    "name": "Чиж Александр Ильич"
+  },
+  {
+    "link": "zinkevich",
+    "name": "Зинкевич Владимир Леонидович"
+  },
+  {
+    "link": "lutugovskiy",
+    "name": "Латуговский Виктор Аркадьевич"
+  },
+  {
+    "link": "neustupova",
+    "name": "Неуступова Елена Ивановна"
+  },
+  {
+    "link": "ovsyannikov",
+    "name": "Овсянников Сергей Аврамович"
+  },
+  {
+    "link": "pirshtuk",
+    "name": "Пирштук Болеслав Казимирович"
+  },
+  {
+    "link": "docenko",
+    "name": "Доценко Владислав Юрьевич"
+  },
+  {
+    "link": "yavor",
+    "name": "Явор Николай Матвеевич"
+  },
+  {
+    "link": "cherenok",
+    "name": "Черенок Владимир Леонтьевич"
+  },
+  {
+    "link": "kotlyarov",
+    "name": "Котляров Изяслав Григорьевич"
   }
 ]

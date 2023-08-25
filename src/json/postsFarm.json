@@ -1,26 +1,46 @@
 [
   {
-    "link": "information",
-    "name": "farm"
+    "link": "farm",
+    "name": "Сельское хозяйство"
   },
   {
-    "link": "history",
-    "name": "История развития"
+    "link": "oshtahovichi",
+    "name": "ОАО «Осташковичи»"
   },
   {
-    "link": "climat",
-    "name": "Климат"
+    "link": "polesse",
+    "name": "КСУП «Полесское»"
   },
   {
-    "link": "population",
-    "name": "Население"
+    "link": "boroviki",
+    "name": "КСУП «Боровики»"
   },
   {
-    "link": "education",
-    "name": "Образование"
+    "link": "zolak-agro",
+    "name": "КСУП «Золак-агро»"
   },
   {
-    "link": "economy",
-    "name": "Хозяйственная деятельность"
+    "link": "mihailov-agro",
+    "name": "СДУП «Михайловское-агро»"
+  },
+  {
+    "link": "ovoch-factory",
+    "name": "КСУП «Светлогорская овощная фабрика»"
+  },
+  {
+    "link": "progress-agro",
+    "name": "КСУП «Прогресс-агро»"
+  },
+  {
+    "link": "vegi",
+    "name": "КСУП «Вежны»"
+  },
+  {
+    "link": "gomel-dubrava",
+    "name": "ФГРУП «Гомельэнерго» «Дубрава-агро»"
+  },
+  {
+    "link": "hutor-agro",
+    "name": "РСУП «Хутор-Агро»"
   }
 ]

@@ -1,26 +1,10 @@
 [
   {
-    "link": "information",
-    "name": "history"
+    "link": "before1918",
+    "name": "От возникновения до 1918 года"
   },
   {
-    "link": "history",
-    "name": "История развития"
-  },
-  {
-    "link": "climat",
-    "name": "Климат"
-  },
-  {
-    "link": "population",
-    "name": "Население"
-  },
-  {
-    "link": "education",
-    "name": "Образование"
-  },
-  {
-    "link": "economy",
-    "name": "Хозяйственная деятельность"
+    "link": "after1918",
+    "name": "С 1918 года до нашего времени"
   }
 ]

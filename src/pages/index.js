@@ -5,12 +5,12 @@ import svetlogorskInMap from "../images/map/map3.webp";
 import mapSvetlogorsk from "../images/map/map2.webp";
 import school12 from "../images/attractions/school12.webp";
 import school9 from "../images/attractions/school9.webp";
+import postsIndex from "../json/postsData.json";
 
 export default function Page() {
-  const  index = 'index';
   return (
     <>
-      <Layout content={index}>
+      <Layout content={postsIndex}>
         <h2 data-section="information"
             className="component-block__title mb section"
             id="information">

@@ -1,26 +1,42 @@
 [
   {
-    "link": "information",
-    "name": "culture"
+    "link": "center_tvorch",
+    "name": "«Светлогорский центр народного творчества»"
   },
   {
-    "link": "history",
-    "name": "История развития"
+    "link": "central-bibliotek",
+    "name": "«Светлогорская районная сеть библиотек»"
   },
   {
-    "link": "climat",
-    "name": "Климат"
+    "link": "gallery",
+    "name": "«Картинная галерея «Традиция»»"
   },
   {
-    "link": "population",
-    "name": "Население"
+    "link": "center-kulturi",
+    "name": "«Светлогорский центр культуры»"
   },
   {
-    "link": "education",
-    "name": "Образование"
+    "link": "culture-house",
+    "name": "«Светлогорский дом культуры энергетиков»"
   },
   {
-    "link": "economy",
-    "name": "Хозяйственная деятельность"
+    "link": "culture_tandem",
+    "name": "«Светлогорский центр досуга «Тандем»"
+  },
+  {
+    "link": "culture_fine-arts",
+    "name": "«Светлогорская детская школа изобразительного искусства»"
+  },
+  {
+    "link": "crafts-house",
+    "name": "Светлогорский Дом ремёсел"
+  },
+  {
+    "link": "culture_museum",
+    "name": "«Светлогорский историко-краеведческий музей»"
+  },
+  {
+    "link": "culture_music_school",
+    "name": "«Светлогорская детская школа искусств»"
   }
 ]

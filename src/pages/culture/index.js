@@ -9,12 +9,12 @@ import cultureMusic from "../../images/culture/culture_music_school.webp";
 import cultureTandem from "../../images/culture/culture_tandem.webp";
 import gallery from "../../images/culture/gallery.webp";
 import Layout from "../../components/layout";
+import postsCulture from "../../json/postsCulture.json";
 
 export default function Page() {
-  const culture = 'culture';
   return (
     <>
-      <Layout content={culture}>
+      <Layout content={postsCulture}>
         <h2 data-section="center_tvorch"
             className="component-block__title mb section"
             id="center_tvorch">

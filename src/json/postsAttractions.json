@@ -1,26 +1,50 @@
 [
   {
-    "link": "information",
-    "name": "atttr"
+    "link": "alley-heroes",
+    "name": "Аллея Героев Советского Союза"
   },
   {
-    "link": "history",
-    "name": "История развития"
+    "link": "fleets4",
+    "name": "Памятный знак «Братство четырёх флотов»"
   },
   {
-    "link": "climat",
-    "name": "Климат"
+    "link": "church1",
+    "name": "Костёл Вознесения Святого Креста"
   },
   {
-    "link": "population",
-    "name": "Население"
+    "link": "nikas-sculpture",
+    "name": "Скульптура «Ника» на въезде в город"
   },
   {
-    "link": "education",
-    "name": "Образование"
+    "link": "silent-bell",
+    "name": "Памятник «Скорбящий колокол»"
   },
   {
-    "link": "economy",
-    "name": "Хозяйственная деятельность"
+    "link": "memorial-bagration",
+    "name": "Мемориальный комплекс «Багратион»"
+  },
+  {
+    "link": "church2",
+    "name": "Храм Преображения Господня"
+  },
+  {
+    "link": "ola",
+    "name": "Мемориальный комплекс «Ола»"
+  },
+  {
+    "link": "soldiers-monument",
+    "name": "Памятник воинам-интернационалистам"
+  },
+  {
+    "link": "shatilo",
+    "name": "Памятник «Роман Шатила»"
+  },
+  {
+    "link": "locomotive",
+    "name": "Монумент тепловозу ТГК-2"
+  },
+  {
+    "link": "nikolin-island",
+    "name": "Урочище «Николин Остров»"
   }
 ]
