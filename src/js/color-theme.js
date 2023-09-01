@@ -39,5 +39,4 @@ themeToggleBtn.addEventListener('click', function () {
       localStorage.setItem('color-theme', 'dark');
     }
   }
-
 });

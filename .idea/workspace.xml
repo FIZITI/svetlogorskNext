@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="jsx">
+    <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/menu-burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/menu-burger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_document.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/color-theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/color-theme.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/Desktop/svetNow",
+    "last_opened_file_path": "D:/pas/Borikov/projects/svetlogorsk",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +52,7 @@
       <workItem from="1692794047387" duration="1081000" />
       <workItem from="1692874823856" duration="1340000" />
       <workItem from="1692957826176" duration="969000" />
+      <workItem from="1693573044246" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="jsx">
       <created>1692962325239</created>
@@ -63,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692962325239</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="script">
+      <created>1692965772623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692965772623</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="jsx" />
+    <MESSAGE value="script" />
+    <option name="LAST_COMMIT_MESSAGE" value="script" />
   </component>
 </project>

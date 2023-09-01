@@ -17,7 +17,7 @@ export default function Page() {
           Информация
         </h2>
         <figure className="max-w-lg mx-auto my">
-          <Image className="max-w-full mx-auto h-auto rounded-lg" src={square} alt="Центральная площадь"/>
+          <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={square} alt="Центральная площадь"/>
           <figcaption className="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Центральная площадь
           </figcaption>
         </figure>
