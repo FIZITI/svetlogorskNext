@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import logo from "../images/logo.webp"
+import logo from "../images/logo.webp";
 
 export default function Navbar() {
   return (
@@ -82,6 +82,36 @@ export default function Navbar() {
           </button>
         </div>
       </header>
+      <div className="menu-burger">
+        <nav>
+          <ul>
+            <li>
+              <Link href="/history" className="link">История</Link>
+            </li>
+            <li>
+              <Link href="/people" className="link">Люди</Link>
+            </li>
+            <li>
+              <Link href="/culture" className="link">Культура</Link>
+            </li>
+            <li>
+              <Link href="/industry" className="link">Предприятия</Link>
+            </li>
+            <li>
+              <Link href="/farm" className="link">Сельское хозяйство</Link>
+            </li>
+            <li>
+              <Link href="/attractions" className="link">Достопримечательности</Link>
+            </li>
+            <li>
+              <Link href="/test" className="link">Викторина</Link>
+            </li>
+            <li>
+              <Link href="/game" className="link">Игра</Link>
+            </li>
+          </ul>
+        </nav>
+      </div>
     </>
   )
 }

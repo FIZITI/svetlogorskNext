@@ -5,7 +5,7 @@
 @layer components {
 
     html {
-        @apply scroll-smooth scroll-pt-14 cursor-[url("/images/cursore")];
+        @apply scroll-smooth scroll-pt-14;
     }
 
     body {

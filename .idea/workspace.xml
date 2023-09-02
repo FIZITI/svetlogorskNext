@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/color-theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/color-theme.js" afterDir="false" />
-    </list>
+    <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="[error]" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,16 +27,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/pas/Borikov/projects/svetlogorsk",
+    "last_opened_file_path": "D:/pas/Borikov/projects/svetlogorskNext/src/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
+    "ts.external.directory.path": "D:\\pas\\Borikov\\projects\\svetlogorskNext\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pas\Borikov\projects\svetlogorskNext\src\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +55,7 @@
       <workItem from="1692794047387" duration="1081000" />
       <workItem from="1692874823856" duration="1340000" />
       <workItem from="1692957826176" duration="969000" />
-      <workItem from="1693573044246" duration="1835000" />
+      <workItem from="1693573044246" duration="6109000" />
     </task>
     <task id="LOCAL-00001" summary="jsx">
       <created>1692962325239</created>
@@ -68,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692965772623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[error]">
+      <created>1693579552019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693579552019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jsx" />
     <MESSAGE value="script" />
-    <option name="LAST_COMMIT_MESSAGE" value="script" />
+    <MESSAGE value="[error]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[error]" />
   </component>
 </project>

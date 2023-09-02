@@ -4,6 +4,8 @@ import history2 from "../../images/history/history2.webp";
 import shatilki from "../../images/history/shatilki.webp";
 import Layout from "../../components/layout";
 import postsHistory from "../../json/postsHistory.json";
+import '../../js/color-theme';
+import '../../js/menu-burger';
 
 export default function Index() {
   return (

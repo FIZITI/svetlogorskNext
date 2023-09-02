@@ -6,6 +6,8 @@ import mapSvetlogorsk from "../images/map/map2.webp";
 import school12 from "../images/attractions/school12.webp";
 import school9 from "../images/attractions/school9.webp";
 import postsIndex from "../json/postsData.json";
+import '../js/color-theme';
+import '../js/menu-burger';
 
 export default function Page() {
   return (
