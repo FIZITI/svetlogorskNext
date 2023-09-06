@@ -7,6 +7,7 @@ import himvolokno from "../../images/industry/himvolokno.webp";
 import hlebzavod from "../../images/industry/hlebzavod.webp";
 import tehmontag from "../../images/industry/tehmontag.webp";
 import postsIndustry from "../../json/postsIndustry.json";
+
 export default function Page() {
   return (
     <>

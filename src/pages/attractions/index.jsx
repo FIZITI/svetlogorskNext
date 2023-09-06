@@ -9,12 +9,9 @@ import memorial from "../../images/attractions/memorial-bagration.webp";
 import nikas from "../../images/attractions/nikas-sculpture.webp";
 import nikolin from "../../images/attractions/nikolin-island.webp";
 import ola from "../../images/attractions/ola.webp";
-import school9 from "../../images/attractions/school9.webp";
-import school12 from "../../images/attractions/school12.webp";
 import shatilo from "../../images/attractions/shatilo.webp";
 import silent from "../../images/attractions/silent-bell.webp";
 import soldiers from "../../images/attractions/soldiers-monument.webp";
-import square from "../../images/attractions/square.webp";
 import postsAttractions from "../../json/postsAttractions.json";
 
 export default function Page() {
