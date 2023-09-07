@@ -1,5 +1,4 @@
 if (typeof window === 'object') {
-  console.log(12122312123);
   const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
   const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
 

@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="scripts">
+      <change afterPath="$PROJECT_DIR$/src/js/clear.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/color-theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/color-theme.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/_app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/attractions/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/attractions/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/history/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/history/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/industry/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/industry/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +72,8 @@
       <workItem from="1692957826176" duration="969000" />
       <workItem from="1693573044246" duration="6109000" />
       <workItem from="1693655662311" duration="7589000" />
-      <workItem from="1694006438614" duration="3001000" />
+      <workItem from="1694006438614" duration="5662000" />
+      <workItem from="1694092918512" duration="1964000" />
     </task>
     <task id="LOCAL-00001" summary="jsx">
       <created>1692962325239</created>
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693663262234</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="scripts">
+      <created>1694012161626</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694012161626</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
