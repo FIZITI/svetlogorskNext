@@ -4,8 +4,8 @@ import '../js/menu-burger';
 import '../js/nav';
 import '../js/clear';
 
-export default function MyApp({ Component, pageProps }) {
+export default function MyApp( {Component, pageProps} ) {
     return (
-      <Component {...pageProps} />
+        <Component {...pageProps} />
     )
 }
