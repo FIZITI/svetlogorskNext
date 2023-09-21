@@ -6,15 +6,15 @@ export default function Side({ posts }) {
       <h3 className="text-sm font-semibold tracking-wide text-gray-900 uppercase dark:text-white lg:text-xs">
         На этой странице
       </h3>
-      <nav className="sidebar-nav">
-        <ul>
-          {posts.map((item, index) => (
-            <li key={index} className="sidebar-nav__li">
-              <Link href={`#${item.link}`}>{item.name}</Link>
-            </li>
-          ))}
-        </ul>
-      </nav>
+      {/*<nav className="sidebar-nav">*/}
+      {/*  <ul>*/}
+      {/*    {posts.map((item, index) => (*/}
+      {/*      <li key={index} className="sidebar-nav__li">*/}
+      {/*        <Link href={`#${item.link}`}>{item.name}</Link>*/}
+      {/*      </li>*/}
+      {/*    ))}*/}
+      {/*  </ul>*/}
+      {/*</nav>*/}
     </aside>
   );
 }
