@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="q">
+    <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="layout in _app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/side.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/side.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/_app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.jsx" afterDir="false" />
@@ -88,7 +88,7 @@
       <workItem from="1694699729333" duration="15000" />
       <workItem from="1694870630696" duration="1848000" />
       <workItem from="1695216110969" duration="5150000" />
-      <workItem from="1695302493716" duration="5245000" />
+      <workItem from="1695302493716" duration="5736000" />
     </task>
     <task id="LOCAL-00001" summary="jsx">
       <created>1692962325239</created>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695221909348</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="layout in _app">
+      <created>1695308303679</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695308303679</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +193,8 @@
     <MESSAGE value="_app" />
     <MESSAGE value="delete public" />
     <MESSAGE value="q" />
-    <option name="LAST_COMMIT_MESSAGE" value="q" />
+    <MESSAGE value="layout in _app" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout in _app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
