@@ -1,5 +1,3 @@
-import '../../js/questions';
-
 export default function Page() {
   return (
     <>
