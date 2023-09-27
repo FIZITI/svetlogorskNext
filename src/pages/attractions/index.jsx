@@ -21,7 +21,7 @@ export default function Page() {
         Аллея Героев Советского Союза
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={alleyHeroes}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={alleyHeroes}
                alt="Аллея Героев Советского Союза"/>
       </figure>
       <p className="mb">Находится по улице 50 лет Октября в центре города и представляет собой череду бронзовых бюстов
@@ -39,7 +39,7 @@ export default function Page() {
         Памятный знак «Братство четырёх флотов»
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={fleets4}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={fleets4}
                alt="Памятный знак «Братство четырёх флотов»"/>
       </figure>
       <p className="mb">Знак открыт в июле 2020 года на набережной Березины по инициативе ветеранской организации
@@ -57,7 +57,7 @@ export default function Page() {
         Костёл Вознесения Святого Креста
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={church1}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={church1}
                alt="Костёл Вознесения Святого Креста"/>
       </figure>
       <p className="mb">На территории современного Светлогорска костёл существовал с 1638 года. Нынешний храм - это

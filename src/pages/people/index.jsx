@@ -24,7 +24,7 @@ export default function Page() {
           Запесочная Нина Никитична
         </h2>
         <figure className="max-w-lg mx-auto my">
-          <Image className="max-w-full mx-auto h-auto rounded-lg" src={zapesochnaya}
+          <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={zapesochnaya}
                  alt="zapesochnaya"/>
         </figure>
         <p className="mb">После окончания медицинского института работала врачом на пристани Осетрово Ленского
@@ -40,7 +40,7 @@ export default function Page() {
           Хмарун Иван Федорович
         </h2>
         <figure className="max-w-lg mx-auto my">
-          <Image className="max-w-full mx-auto h-auto rounded-lg" src={hmarun}
+          <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={hmarun}
                  alt="hmarun"/>
         </figure>
         <p className="mb">8 марта 1916, д. Боровики Светлогорского р-на Гомельской обл. – 13 ноября 1998, Герой
@@ -65,7 +65,7 @@ export default function Page() {
           Кравчук Николай Иванович
         </h2>
         <figure className="max-w-lg mx-auto my">
-          <Image className="max-w-full mx-auto h-auto rounded-lg" src={kravchuk}
+          <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={kravchuk}
                  alt="kravchuk"/>
         </figure>
         <p className="mb">25 мая 1932, Житомирская обл. — февраль 2016. Ветеран труда, Отличник энергетики и

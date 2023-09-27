@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="script">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/svetlogorskNext.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/color-theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/menu-burger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/questions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/clear.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/clear.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/color-theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/menu-burger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/questions.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/_app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/attractions/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/attractions/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/culture/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/culture/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/history/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/history/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/industry/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/industry/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/people/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/people/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/test/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/test/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +72,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pas\Borikov\projects\svetlogorskNext\src\images" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pas\Borikov\projects\svetlogorskNext\public" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,6 +102,7 @@
       <workItem from="1695475286199" duration="2735000" />
       <workItem from="1695479377012" duration="12000" />
       <workItem from="1695479391274" duration="732000" />
+      <workItem from="1695820975154" duration="5337000" />
     </task>
     <task id="LOCAL-00001" summary="jsx">
       <created>1692962325239</created>
@@ -171,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695308322801</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="script">
+      <created>1695480932447</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695480932447</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

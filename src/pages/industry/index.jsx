@@ -15,7 +15,7 @@ export default function Page() {
         ОАО «СветлогорскХимволокно»
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={himvolokno}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={himvolokno}
                alt="ОАО «СветлогорскХимволокно»"/>
       </figure>
       <p className="mb">История ОАО «СветлогорскХимволокно» берёт свое начало с завода искусственного волокна.
@@ -40,7 +40,7 @@ export default function Page() {
         Светлогорский целлюлозно-картонный комбинат
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={ckk}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={ckk}
                alt="Светлогорский целлюлозно-картонный комбинат"/>
       </figure>
       <p className="mb">ОАО «Светлогорский ЦКК» - крупный производитель сульфатной беленой целлюлозы, гофрокартона,
@@ -71,7 +71,7 @@ export default function Page() {
         Светлогорский ЖБИиК»
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={gbiik}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={gbiik}
                alt="ОАО «Светлогорский ЖБИиК»"/>
       </figure>
       <p className="mb">Открытое акционерное общество «Светлогорский завод железобетонных изделий и конструкций» (ОАО

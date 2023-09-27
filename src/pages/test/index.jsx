@@ -1,6 +1,9 @@
+import Script from "next/script";
+
 export default function Page() {
   return (
     <>
+      <Script src="/questions.js" strategy="afterInteractive"></Script>
       <form>
         <h2 className="component-block__title mb">
           1. Сколько человек проживает в Светлогорске?

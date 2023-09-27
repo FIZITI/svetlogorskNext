@@ -6,13 +6,14 @@ import shatilki from "../../images/history/shatilki.webp";
 export default function Index() {
   return (
     <>
+
       <h2 data-section="before1918"
           className="component-block__title mb section"
           id="before1918">
         От возникновения до 1918 года
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={history1} alt="Шатилки"/>
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={history1} alt="Шатилки"/>
         <figcaption className="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Шатилки</figcaption>
       </figure>
       <p className="my">По результатам археологических раскопок, поселение на месте современного города существовало
@@ -47,7 +48,7 @@ export default function Index() {
         С 1918 года до нашего времени
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={history2}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={history2}
                alt="Железнодорожный вокзал"/>
         <figcaption className="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Железнодорожный вокзал
         </figcaption>

@@ -18,7 +18,7 @@ export default function Page() {
         ГУК «Светлогорский центр народного творчества»
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={centerKulturi}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={centerKulturi}
                alt="Светлогорский центр народного творчества"/>
       </figure>
       <p className="mb">1 января 2003 года районный дом культуры был реорганизован в районный организационно – методический
@@ -57,7 +57,7 @@ export default function Page() {
         ГУК «Светлогорская районная сеть библиотек»
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={centralBibliotek}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={centralBibliotek}
                alt="Центральная библиотека"/>
       </figure>
       <p className="mb">Государственное учреждение культуры «Светлогорская районная сеть библиотек» предоставляет
@@ -90,7 +90,7 @@ export default function Page() {
         ГУК «Светлогорская картинная галерея «Традиция» им. Г. Прянишникова»
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={gallery}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={gallery}
                alt="«Картинная галерея «Традиция»»"/>
       </figure>
       <p className="mb">Светлогорская картинная галерея «Традиция» открыта 19 сентября 1992 года. 30 июня 1995 года решением
@@ -119,7 +119,7 @@ export default function Page() {
         Государственное учреждение культуры «Светлогорский центр культуры»
       </h2>
       <figure className="max-w-lg mx-auto my">
-        <Image className="max-w-full mx-auto h-auto rounded-lg" src={centerKulturi}
+        <Image priority className="max-w-full mx-auto h-auto rounded-lg" src={centerKulturi}
                alt="«Светлогорский центр культуры»"/>
       </figure>
       <p className="mb">ГУК «Светлогорский центр культуры» является ведущим учреждением культуры г. Светлогорска в сфере
