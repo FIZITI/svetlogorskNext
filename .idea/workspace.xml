@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="scripts $ router">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/side.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/side.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="scripts $ router" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +86,7 @@
       <workItem from="1695820975154" duration="5530000" />
       <workItem from="1696427640272" duration="595000" />
       <workItem from="1696512042762" duration="5775000" />
-      <workItem from="1696532159861" duration="404000" />
+      <workItem from="1696532159861" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="jsx">
       <created>1692962325239</created>
@@ -191,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695826650372</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="scripts $ router">
+      <created>1696532758464</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696532758464</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

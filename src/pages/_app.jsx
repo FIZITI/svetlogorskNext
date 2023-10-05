@@ -8,8 +8,8 @@ export default function MyApp( {Component, pageProps} ) {
 
     return (
         <Layout currentPage={router.pathname}>
-          <Script src="/js/color-theme.js" strategy="afterInteractive"></Script>
-          <Script src="/js/menu-burger.js" strategy="afterInteractive"></Script>
+          <Script src="/js/color-theme.js"></Script>
+          <Script src="/js/menu-burger.js"></Script>
           <Component {...pageProps} />
         </Layout>
     )
