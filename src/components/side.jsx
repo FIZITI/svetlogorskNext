@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Side({ posts }) {
 
   if (!posts) {
-    return null; // Выводить ничего, если `posts` пока null
+    return null;
   }
   return (
     <aside className="sidebar component-block">
