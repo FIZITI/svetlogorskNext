@@ -24,7 +24,6 @@ export default function Layout({ currentPage, children}) {
       });
   }, [router.route]);
 
-
   return (
     <>
       <Navbar/>

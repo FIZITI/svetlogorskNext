@@ -22,6 +22,5 @@ export default function Side({ posts }) {
         </nav>
       </aside>
     </>
-
   );
 }
