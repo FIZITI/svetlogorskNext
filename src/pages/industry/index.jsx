@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Script from "next/script";
 import agroserv from "../../images/industry/agroserv.webp";
 import ckk from "../../images/industry/ckk.webp";
 import gbiik from "../../images/industry/gbiik.webp";

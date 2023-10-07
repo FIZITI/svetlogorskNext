@@ -1,7 +1,7 @@
 import Navbar from "./navbar";
 import Side from "./side";
-import {useRouter} from 'next/router';
-import { useEffect, useState } from 'react';
+import {useRouter} from "next/router";
+import { useEffect, useState } from "react";
 
 export default function Layout({ currentPage, children}) {
   const router = useRouter();
