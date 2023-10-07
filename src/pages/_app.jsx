@@ -4,10 +4,10 @@ import { useRouter } from "next/router";
 import "../app/globals.css";
 
 export default function MyApp( {Component, pageProps} ) {
-    const router = useRouter();
+    // const router = useRouter();
 
     return (
-        <Layout currentPage={router.pathname}>
+        <Layout>
           <Script src="/menu-burger.js" strategy="afterInteractive"></Script>
           <Script src="/color-theme.js" strategy="afterInteractive"></Script>
           <Component {...pageProps} />
