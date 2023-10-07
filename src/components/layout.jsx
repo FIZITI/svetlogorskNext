@@ -8,18 +8,9 @@ export default function Layout({ currentPage, children}) {
   const router = useRouter();
   const isSideVisible = router.pathname === '/' || router.pathname === '/history' || router.pathname === '/people' || router.pathname === '/culture' || router.pathname === '/industry' || router.pathname === '/farm' || router.pathname === '/attractions';
 
-  // let jsonData;
-  // if (currentPage === '/') {
-  //   jsonData = a;
-  //   console.log(123)
-  // }
   const [jsonData, setJsonData] = useState(null);
 
-  // currentPage = currentPage[1]
-
-  // const jsonFile = `json/${currentPage}.json`;
   useEffect(() => {
-    // Этот код будет выполнен при каждом переходе между "страницами"
     const currentPage = router.route.split('/').pop();
     const jsonFile = `json/${currentPage}.json`;
 
