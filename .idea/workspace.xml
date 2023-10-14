@@ -5,10 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08c81811-c789-4ee5-a586-2cd767180f74" name="Changes" comment="scripts $ router">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/b8By5u7TFVw5bnuMgu9Jw/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/b8By5u7TFVw5bnuMgu9Jw/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/fd9d1056-a99b58d3cc150217.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/framework-452594291d5933d4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/main-a5f5cbdabd2a700c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/main-app-2c81385aeaab12a6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/_app-c8b5c67029a76a12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/_error-ff9ea5b06aea70a9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/attractions-7373acf6a99b8133.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/culture-ae43f37039d7ef44.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/farm-efd65bc4be72db65.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/game-6198f04c23a98067.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/history-290f087b6cd16d7d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/index-835699e72c7e6dbf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/industry-c05525517c11c3d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/people-7f7c1e5bcab16eee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/test-61f943e4c87bbc03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/webpack-43acc2d795667b0e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/css/4ee4b5c50af142be.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/agroserv.d3497246.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/alley-heroes.eb98770a.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/center-kulturi.5eedbb9d.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/central-bibliotek.6dafacd6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/cherenok.c7fd7a4d.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/chizh.4d8c2660.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/church1.38b7c998.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/church2.07b4fef5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/ckk.446e8a49.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/crafts-house.e0695d97.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/culture-house.6962756e.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/culture_arts.87454911.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/culture_museum.59d6bf6d.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/culture_music_school.6b64f866.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/culture_tandem.f8e088a2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/docenko.4d9ed490.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/farmers.1c6a096e.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/fleets4.7c35ddae.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/gallery.aa26cf40.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/gbiik.78a86fbc.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/himvolokno.f66bf718.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/history1.2e494c8a.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/history2.a558aca9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/hlebzavod.68b25bbe.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/hmarun.7a0eb05e.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/hudoleeva.9b3f1a25.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/kotlyarov.63cdded3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/kravchuk.0d595bf9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/locomotive.adbf8e78.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/logo.78b0c714.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/lutugovskiy.ce25594e.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/map2.b9c31946.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/map3.ad0deb0d.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/memorial-bagration.49c4af12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/neustupova.60cb31a7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/nikas-sculpture.1d6ffdc2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/nikolin-island.30cc9bff.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/ola.a6dd9d5f.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/ovsyannikov.a9a2e890.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/pirshtuk.9dea824f.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/school12.c9559fac.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/school9.6c6f399e.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/shatilki.9a87d1df.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/shatilo.750c0a51.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/silent-bell.d44c13d8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/soldiers-monument.5a7800ee.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/square.32214249.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/tehmontag.7e1a7c95.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/timohin.c466fbf5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/tractor.c2561293.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/yavor.6beef339.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/zapesochnaya.020149f3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/zinkevich.f6d2ece7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +94,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="new-feature" />
@@ -295,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697283332350</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="scripts $ router">
+      <created>1697284408575</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1697284408575</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
